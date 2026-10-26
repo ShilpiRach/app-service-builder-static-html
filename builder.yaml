@@ -1,4 +1,0 @@
-components:
-  - name: site
-    role: static
-    output: public
